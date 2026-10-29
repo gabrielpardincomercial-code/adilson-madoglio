@@ -41,14 +41,9 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://adilsonmadoglio.landingprofile.com/servicos/chuveiros-e-aparelhos-eletricos</loc>
+    <loc>https://adilsonmadoglio.landingprofile.com/servicos/climatizacao-e-aparelhos-eletricos</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://adilsonmadoglio.landingprofile.com/equipe</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://adilsonmadoglio.landingprofile.com/blog</loc>

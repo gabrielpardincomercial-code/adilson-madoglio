@@ -16,9 +16,9 @@ RedirectMatch 404 /\.git
 
 # ---- URLs antigas (inglês) -> novas (português), 301 ----
 RedirectMatch 301 ^/about/?$ /sobre
-RedirectMatch 301 ^/team/?$ /equipe
+RedirectMatch 301 ^/team/?$ /sobre
 RedirectMatch 301 ^/contact/?$ /contato
-RedirectMatch 301 ^/servicos/carregador-de-carro-eletrico/?$ /servicos/chuveiros-e-aparelhos-eletricos
+RedirectMatch 301 ^/servicos/carregador-de-carro-eletrico/?$ /servicos/climatizacao-e-aparelhos-eletricos
 RedirectMatch 301 ^/news/?$ /blog
 RedirectMatch 301 ^/services/?$ /servicos
 RedirectMatch 301 ^/services/rooftop-solar-installation/?$ /servicos/instalacao-eletrica-residencial
@@ -26,12 +26,15 @@ RedirectMatch 301 ^/services/solar-system-maintenance/?$ /servicos/manutencao-el
 RedirectMatch 301 ^/services/off-grid-solar-solutions/?$ /servicos/quadros-e-protecao-eletrica
 RedirectMatch 301 ^/services/solar-panel-cleaning/?$ /servicos/iluminacao-e-tomadas
 RedirectMatch 301 ^/services/inverter-repair-support/?$ /servicos/reparos-e-emergencias-eletricas
-RedirectMatch 301 ^/services/battery-storage-solutions/?$ /servicos/chuveiros-e-aparelhos-eletricos
+RedirectMatch 301 ^/services/battery-storage-solutions/?$ /servicos/climatizacao-e-aparelhos-eletricos
 RedirectMatch 301 ^/news/homeowners-guide-to-planning-rooftop-solar/?$ /blog/como-planejar-a-instalacao-eletrica-da-sua-casa
 RedirectMatch 301 ^/news/solar-battery-storage-what-to-know/?$ /blog/disjuntor-desarmando-o-que-fazer
 RedirectMatch 301 ^/news/simple-ways-to-care-for-your-solar-panels/?$ /blog/cuidados-para-manter-a-instalacao-eletrica-segura
 RedirectMatch 301 ^/news/on-grid-vs-off-grid-solar/?$ /blog/dr-e-dps-qual-e-a-diferenca
 RedirectMatch 301 ^/news/how-to-read-your-solar-system-performance/?$ /blog/como-ler-a-conta-de-luz
+
+RedirectMatch 301 ^/equipe/?$ /sobre
+RedirectMatch 301 ^/servicos/chuveiros-e-aparelhos-eletricos/?$ /servicos/climatizacao-e-aparelhos-eletricos
 
 # ---- Canonical URLs: no /index.html and no .html ----
 RewriteCond %{THE_REQUEST} \s/(.*)index\.html[\s?] [NC]
