@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adilsonmadoglio.landingprofile.com/sitemap.xml
