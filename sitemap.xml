@@ -6,82 +6,82 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://adilsonmadoglio.landingprofile.com/about</loc>
+    <loc>https://adilsonmadoglio.landingprofile.com/sobre</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://adilsonmadoglio.landingprofile.com/services</loc>
+    <loc>https://adilsonmadoglio.landingprofile.com/servicos</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://adilsonmadoglio.landingprofile.com/services/rooftop-solar-installation</loc>
+    <loc>https://adilsonmadoglio.landingprofile.com/servicos/instalacao-eletrica-residencial</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://adilsonmadoglio.landingprofile.com/services/solar-system-maintenance</loc>
+    <loc>https://adilsonmadoglio.landingprofile.com/servicos/manutencao-eletrica-preventiva</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://adilsonmadoglio.landingprofile.com/services/off-grid-solar-solutions</loc>
+    <loc>https://adilsonmadoglio.landingprofile.com/servicos/quadros-e-protecao-eletrica</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://adilsonmadoglio.landingprofile.com/services/solar-panel-cleaning</loc>
+    <loc>https://adilsonmadoglio.landingprofile.com/servicos/iluminacao-e-tomadas</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://adilsonmadoglio.landingprofile.com/services/inverter-repair-support</loc>
+    <loc>https://adilsonmadoglio.landingprofile.com/servicos/reparos-e-emergencias-eletricas</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://adilsonmadoglio.landingprofile.com/services/battery-storage-solutions</loc>
+    <loc>https://adilsonmadoglio.landingprofile.com/servicos/carregador-de-carro-eletrico</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://adilsonmadoglio.landingprofile.com/team</loc>
+    <loc>https://adilsonmadoglio.landingprofile.com/equipe</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://adilsonmadoglio.landingprofile.com/news</loc>
+    <loc>https://adilsonmadoglio.landingprofile.com/blog</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://adilsonmadoglio.landingprofile.com/news/homeowners-guide-to-planning-rooftop-solar</loc>
+    <loc>https://adilsonmadoglio.landingprofile.com/blog/como-planejar-a-instalacao-eletrica-da-sua-casa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://adilsonmadoglio.landingprofile.com/news/solar-battery-storage-what-to-know</loc>
+    <loc>https://adilsonmadoglio.landingprofile.com/blog/disjuntor-desarmando-o-que-fazer</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://adilsonmadoglio.landingprofile.com/news/simple-ways-to-care-for-your-solar-panels</loc>
+    <loc>https://adilsonmadoglio.landingprofile.com/blog/cuidados-para-manter-a-instalacao-eletrica-segura</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://adilsonmadoglio.landingprofile.com/news/on-grid-vs-off-grid-solar</loc>
+    <loc>https://adilsonmadoglio.landingprofile.com/blog/dr-e-dps-qual-e-a-diferenca</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://adilsonmadoglio.landingprofile.com/news/how-to-read-your-solar-system-performance</loc>
+    <loc>https://adilsonmadoglio.landingprofile.com/blog/como-ler-a-conta-de-luz</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://adilsonmadoglio.landingprofile.com/contact</loc>
+    <loc>https://adilsonmadoglio.landingprofile.com/contato</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>

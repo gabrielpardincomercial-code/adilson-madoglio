@@ -1,30 +1,29 @@
-# Adilson Madoglio - Solvora Solar Clone
+# Adilson Madoglio - Eletricista Residencial
 
-High-performance, standalone, responsive website replica of Solvora Solar Energy & Renewable Power Solutions.
+Site institucional em HTML5 / CSS3 / JS puro (estático), totalmente em português do Brasil, para o eletricista residencial **Adilson Madoglio**.
+Publicado na Hostinger (LiteSpeed) em `https://adilsonmadoglio.landingprofile.com/`.
 
-## Architecture
-- Standalone HTML5 / CSS3 / Vanilla JS
-- Decoupled from Framer SSR runtime & badges
-- 100% localized assets (28 images, 19 web fonts in `./assets/`)
-- Native interactive accordion & mobile navigation
-- Deployed on Hostinger LiteSpeed at `https://adilsonmadoglio.landingprofile.com/`
+## Páginas
+- `/` - Início
+- `/sobre` - Sobre
+- `/servicos` - Serviços
+  - `/servicos/instalacao-eletrica-residencial`
+  - `/servicos/manutencao-eletrica-preventiva`
+  - `/servicos/quadros-e-protecao-eletrica`
+  - `/servicos/iluminacao-e-tomadas`
+  - `/servicos/reparos-e-emergencias-eletricas`
+  - `/servicos/carregador-de-carro-eletrico`
+- `/equipe` - Equipe
+- `/blog` - Blog
+  - `/blog/como-planejar-a-instalacao-eletrica-da-sua-casa`
+  - `/blog/disjuntor-desarmando-o-que-fazer`
+  - `/blog/cuidados-para-manter-a-instalacao-eletrica-segura`
+  - `/blog/dr-e-dps-qual-e-a-diferenca`
+  - `/blog/como-ler-a-conta-de-luz`
+- `/contato` - Contato e orçamento
+- `/404` - Página não encontrada
 
-## Pages
-- `/` - Home
-- `/about` - About Solvora
-- `/services` - Services Overview
-  - `/services/rooftop-solar-installation`
-  - `/services/solar-system-maintenance`
-  - `/services/off-grid-solar-solutions`
-  - `/services/solar-panel-cleaning`
-  - `/services/inverter-repair-support`
-  - `/services/battery-storage-solutions`
-- `/team` - Team
-- `/news` - Insights / Blog
-  - `/news/homeowners-guide-to-planning-rooftop-solar`
-  - `/news/solar-battery-storage-what-to-know`
-  - `/news/simple-ways-to-care-for-your-solar-panels`
-  - `/news/on-grid-vs-off-grid-solar`
-  - `/news/how-to-read-your-solar-system-performance`
-- `/contact` - Contact & Consultation
-- `/404` - Custom 404
+As URLs antigas em inglês redirecionam (301) para as novas via `.htaccess`.
+
+## Dados de exemplo a substituir
+Telefone/WhatsApp `(11) 90000-0000`, e-mail `contato@madoglio.com.br`, endereço (Rua das Palmeiras, 240 – São Paulo/SP), horários, nomes e fotos da equipe e marcas de fornecedores são fictícios.
