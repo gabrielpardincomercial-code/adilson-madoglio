@@ -25,4 +25,4 @@ Publicado na Hostinger (LiteSpeed) em `https://adilsonmadoglio.landingprofile.co
 As URLs antigas em inglês redirecionam (301) para as novas via `.htaccess`.
 
 ## Dados de exemplo a substituir
-Telefone/WhatsApp `(11) 90000-0000`, e-mail `contato@madoglio.com.br`, endereço (Rua das Palmeiras, 240 – São Paulo/SP), horários, nomes e fotos da equipe e marcas de fornecedores são fictícios.
+Telefone/WhatsApp `(19) 90000-0000`, e-mail `contato@madoglio.com.br`, endereço (hoje só "São João da Boa Vista – SP e região"), horários, nomes e fotos da equipe e marcas de fornecedores são fictícios.
