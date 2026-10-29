@@ -27,4 +27,18 @@
   filter:drop-shadow(0 0 22px rgba(255,238,176,.55)) drop-shadow(0 18px 24px rgba(20,22,19,.22))}
 @keyframes adm-rays{from{opacity:.65;transform:rotate(-2deg)}to{opacity:1;transform:rotate(2deg)}}
 @media (prefers-reduced-motion:reduce){.adm-hero-rays{animation:none}}
-@media (max-width:1199.98px){.adm-hero-fig,.adm-hero-rays{display:none}}
+.adm-hero-halo{display:none}
+/* Tablet e celular: o hero vira coluna; o Adilson entra entre o texto e o cartão, saindo por trás dele */
+@media (max-width:1199.98px){
+  .adm-hero-rays{display:none}
+  header[data-framer-name="Hero"] [data-framer-name="Copy"]{order:-1}
+  .adm-hero-fig{display:block;position:relative;right:auto;top:auto;order:0;align-self:center;width:min(250px,64vw);height:auto;aspect-ratio:700/1008;margin:0 0 -64px;z-index:0}
+  .adm-hero-fig::before{left:-34%;right:-34%;top:-6%;bottom:-6%}
+  .adm-hero-fig img{height:100%}
+  .adm-hero-halo{display:block;position:absolute;left:50%;top:34%;width:640px;height:640px;transform:translate(-50%,-50%);pointer-events:none;
+    background:repeating-conic-gradient(from 0deg at 50% 50%,rgba(255,244,196,.7) 0deg 3.4deg,rgba(255,244,196,0) 3.4deg 10deg);
+    -webkit-mask-image:radial-gradient(circle,#000 0,rgba(0,0,0,.6) 30%,transparent 62%);mask-image:radial-gradient(circle,#000 0,rgba(0,0,0,.6) 30%,transparent 62%);
+    mix-blend-mode:soft-light;animation:adm-halo 10s ease-in-out infinite alternate}
+}
+@keyframes adm-halo{from{opacity:.7}to{opacity:1}}
+@media (prefers-reduced-motion:reduce){.adm-hero-halo{animation:none}}
