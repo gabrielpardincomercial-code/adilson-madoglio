@@ -12,7 +12,7 @@ Publicado na Hostinger (LiteSpeed) em `https://adilsonmadoglio.landingprofile.co
   - `/servicos/quadros-e-protecao-eletrica`
   - `/servicos/iluminacao-e-tomadas`
   - `/servicos/reparos-e-emergencias-eletricas`
-  - `/servicos/climatizacao-e-aparelhos-eletricos`
+  - `/servicos/chuveiros-e-aparelhos-eletricos`
 - `/blog` - Blog
   - `/blog/como-planejar-a-instalacao-eletrica-da-sua-casa`
   - `/blog/disjuntor-desarmando-o-que-fazer`
